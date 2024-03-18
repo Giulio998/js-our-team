@@ -1,0 +1,18 @@
+.card:hover .card-body, .card-img-top{
+    background-color: rgba(21, 65, 184, 0.5);
+    cursor:pointer;
+}
+
+#lorem {
+    color:#170642;
+}
+
+header {
+    background-color: #4465ad;
+    border-radius: 3px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card-body {
+    background-color: #f4f4f4;
+}
